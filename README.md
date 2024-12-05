@@ -18,15 +18,5 @@ I work on multiple exercises and projects in Python. The 100-day program covers 
 
 While I have completed approximately 20% of the program, there are still many more exciting topics to explore. The assignments and projects are not only focused on Python basics but also introduce additional concepts, such as:
 
-HTML
-CSS
-Web Design
-SQLite
-APIs
-Pandas
-Matplotlib
-NumPy
-Data Science
-GUI
-Automation
+HTML, CSS, Web Design, SQLite, APIs, Pandas, Matplotlib, NumPy, Data Science, GUI, Automation and more. 
 
