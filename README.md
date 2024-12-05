@@ -14,7 +14,8 @@ Following this course, I further enhanced my Python skills and obtained my Pytho
 - Collection Types: Dictionaries, Dictionary Functions, Tuples, Tuple Unpacking, Sets, List Comprehensions.
 - Functional Programming: Lambdas, map & filter, Generators, Decorators, Recursion, *args and **kwargs.
 - Object-Oriented Programming: Classes, Inheritance, Magic Methods & Operator Overloading, Data Hiding, Class & Static Methods, Properties.
-  In my bankaccount excersies I implemented the most of these topics. I would like to kindly refer you to that.https://github.com/oknaapen/Bankaccount
+  In my bankaccount excersies I implemented the most of these topics. I would like to kindly refer you to that.https://github.com/oknaapen/Bankaccount, 
+  https://github.com/oknaapen/Skycraper/
 - Exceptions Handling.
 - Working with Files: Opening, Reading, Writing, and Managing files.
 
